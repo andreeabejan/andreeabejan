@@ -16,7 +16,7 @@
 :woman_technologist:	About me:
   
   - :mortar_board: I am studying at the University "Alexandru Ioan Cuza" - Faculty of <b>Computer Science</b>, Iasi
-  - :seedling: I am currently learning <b>Python</b>
+  - :seedling: I am currently learning <b>JavaScript</b>
   - :envelope: You can reach me at andreeabejan03@gmail.com
   
 </div>
