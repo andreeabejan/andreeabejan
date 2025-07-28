@@ -15,8 +15,8 @@
 <div>
 :woman_technologist:	About me:
   
-  - :mortar_board: I am studying at the University "Alexandru Ioan Cuza" - Faculty of <b>Computer Science</b>, Iasi
-  - :seedling: I am currently learning <b>JavaScript</b>
+  - :mortar_board: I graduated the University "Alexandru Ioan Cuza" - Faculty of <b>Computer Science</b>, Iasi
+  - :seedling: I am currently learning <b>TypeScript</b>
   - :envelope: You can reach me at andreeabejan03@gmail.com
   
 </div>
