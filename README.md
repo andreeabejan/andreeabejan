@@ -16,6 +16,7 @@
 :woman_technologist:	About me:
   
   - :mortar_board: I graduated the University "Alexandru Ioan Cuza" - Faculty of <b>Computer Science</b>, Iasi
+  - 👩‍🎓 M.Sc. Student in Artificial Intelligence – Technical University <b>"Gheorghe Asachi"</b>, Iași
   - :seedling: I am currently learning <b>AWS</b>
   - :envelope: You can reach me at andreeabejan03@gmail.com
   
